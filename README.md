@@ -7,7 +7,8 @@ Email: leandronsp@gmail.com
 Ftp-communication
 ===============
 
-A easy way for SSH and FTP communication.
+A java implementation.
+A easy way for SSH and FTP communication. 
 
 
 Usage
